@@ -1,0 +1,9 @@
+so, I am working on a project which is called enose. I have a spreadsheets which has different sensor values of various gases like:
+Ammonia (NH3)-Echem	Nitrogen Dioxide (NO2)	Ethylene	Carbon Monoxide (CO)	Alcohol- Acetone	Alcohol	Ammonia (NH3)- Ethanol
+These are the values recorded by sensors when a gas called Ethenol is passed through the sensors at 200ppm
+
+I have a dataset with columns ms	Ammonia (NH3)-Echem	Nitrogen Dioxide (NO2)	Ethylene	Carbon Monoxide (CO)	Alcohol- Acetone	Alcohol	Ammonia (NH3)- Ethanol	Gas Type(ppm)
+where Gas Type is has 9 classified unique values. Generate an LDA model with proper training and splitting data with accuracy and graphs.
+
+
+where each data point is colored according to its predicted class.
